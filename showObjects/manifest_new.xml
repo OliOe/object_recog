@@ -1,0 +1,19 @@
+<package>
+  <description brief="showObjects">
+
+     showObjects
+
+  </description>
+  <author>hsmatana</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/showObjects</url>
+  <depend package="pcl_ros"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="visualization_msgs"/>
+  <depend package="cylRecognition"/>
+
+</package>
+
+

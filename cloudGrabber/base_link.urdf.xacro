@@ -1,0 +1,13 @@
+<robot name="base">
+	
+<link name="base_link"/>
+	
+<link name="base_top_link"/>
+	
+<joint name="base_top_joint" type="fixed">
+<parent link="base_link"/>
+<child link="base_top_link"/>
+<origin rpy="0 0 0" xyz="0.0 0.0 1.07"/>
+</joint>
+
+</robot>

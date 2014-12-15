@@ -1,0 +1,19 @@
+<package>
+  <description brief="cylRecognition">
+
+     cylRecognition
+
+  </description>
+  <author>hsmatana</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cylRecognition</url>
+  <depend package="pcl_ros"/>
+  <depend package="pcl_conversions"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="visualization_msgs"/>
+
+</package>
+
+
